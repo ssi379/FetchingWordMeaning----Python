@@ -1,4 +1,6 @@
-### Please write the English words that you want to fetch the Korean meanings from 'dic.daum.net'
+### Please write the English words as below that you want to fetch the Korean meanings from Daum Dictionary, 'dic.daum.net'
 good
 love
 voca
+run
+script
