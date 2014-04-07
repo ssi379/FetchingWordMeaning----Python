@@ -1,0 +1,4 @@
+### Please write the English words that you want to fetch the Korean meanings from 'dic.daum.net'
+good
+love
+voca
