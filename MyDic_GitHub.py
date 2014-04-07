@@ -2,7 +2,7 @@
 # Fetching Word Meaning 0.9
 # Python3.4
 
-# This program is to automatically fetch Korean meaning of English vocabulary.
+# This program is to automatically fetch Korean meanings of English vocabulary.
 # The vocabulary list is saved in "MyDic.txt" file below. Also, check the example of this file. 
 # If you run this script in python 3.4, you can get a new text file, "Results.txt" which containing korean meanings of the listed English voca. 
 # I am slating to develop this script into app and exe files for more convinient usage and distribution. Thanks!
